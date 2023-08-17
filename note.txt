@@ -1,0 +1,30 @@
+install pakgs
+bootstrap react-bootstrap
+include main.jsx
+
+react-router-dom
+react-loader-spinner
+axios
+react-icons
+
+set up react-router dom 
+create pages 
+home
+reister 
+login
+welcome
+allstories
+singlestory
+mystories
+edit
+create
+error
+
+REact optimization
+lazy Loading
+ 
+100kb
+2kb
+45kb
+
+
